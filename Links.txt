@@ -1,0 +1,54 @@
+Hirist Jobs
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/5?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/2?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/1?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/7?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/8?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/3?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/4?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/6?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/9?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/10?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/11?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/12?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false",
+ "https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/catJobs/13?pageNo=0&loc=&minexp=0&maxexp=30&boostJobs=false"
+
+
+==============================================================================================
+Foundit Jobs
+https://www.foundit.in/search/freshers-jobs?searchId=45a2d8ae-3de9-4219-aa1f-e8f39b57752d
+https://www.foundit.in/search/it-jobs?searchId=4cd9def3-8306-48f3-8c88-21ec08e83a80
+https://www.foundit.in/search/java-jobs?searchId=6678f976-8970-4bd7-b933-72f6a0969e24
+https://www.foundit.in/search/hr-executive-jobs?searchId=0ca21b8e-c8ce-4e80-9620-492f7909e182
+https://www.foundit.in/search/manual-testing-jobs?searchId=f8083d4e-c9a3-4595-a2e2-0cd47f88e269
+https://www.foundit.in/search/work-from-home-jobs?searchId=60917068-eb55-4b2a-a92e-cd6f5c8081a6
+https://www.foundit.in/search/software-engineer-jobs?searchId=e35ba34b-e03d-4862-a62d-81ccae0494da
+https://www.foundit.in/search/business-analyst-jobs?searchId=524a902e-4bbc-43cd-993a-a81c1fd62e04
+
+
+Jobs by category
+https://www.foundit.in/search/dot-net-developer-jobs?searchId=e41cc6c6-235f-4e11-bb9d-f447e22ff0f8
+https://www.foundit.in/search/accountant-jobs?searchId=e4289e4b-2da3-42f3-9dd7-1a3c30dd0df7
+https://www.foundit.in/search/android-developer-jobs?searchId=2bfde254-1de3-4eda-9e33-eedba446fde3
+https://www.foundit.in/search/business-analyst-jobs?searchId=dbfce5ff-35b3-493f-b3be-f6ad1c1c0176
+https://www.foundit.in/search/graphic-designer-jobs?searchId=21cffefd-6492-4da4-9fca-8a38b43ba386
+https://www.foundit.in/search/java-developer-jobs?searchId=b5bb69c8-8483-4c14-86c9-4b302b45c4a6
+https://www.foundit.in/search/project-manager-jobs?searchId=62a0c48f-bf62-4e15-b6e1-758b00d05b6f
+https://www.foundit.in/search/python-developer-jobs?searchId=106b74ca-e80f-4699-b97f-0cdfd02c344b
+https://www.foundit.in/search/recruiter-jobs?searchId=2adfdcc6-4fcf-402e-8c1e-e028c8e7c752
+
+==========================================================================================================
+Simplyhired
+"https://www.simplyhired.co.in/search?l=mumbai%2C+maharashtra&job=z8yBECFneLPIYhPHy2tfGcT-GPcosH-ziAzXJODvuop_zEJD_GL4Xg"
+"https://www.simplyhired.co.in/search?l=bengaluru%2C+karnataka&job=hod8w-UxvPL2wjLVjtLG8B69hucBZb0dYW1nzGvdEBKXdv2nPc9JYg"
+"https://www.simplyhired.co.in/search?l=chennai%2C+tamil+nadu&job=XjREJDbgstoid9CPxMIsfMatBK9L0T_DxhGvlMfrW1geavK65Zt3VA"
+"https://www.simplyhired.co.in/search?l=pune%2C+maharashtra&job=u3foFDmKnfv7KigeyqIOVY8-ifqepPzydJHS3DZVqSK9yh16BvjlFA"
+"https://www.simplyhired.co.in/search?l=hyderabad%2C+telangana&job=--r9oEDEbleP1SfAIIHE9i_mMwMHHhlrUyEKTX5pzrGawRfguJj_8w"
+"https://www.simplyhired.co.in/search?l=delhi%2C+delhi&job=AVIN2yydE-ZFMBL400-f_dmfWBudQXTjsvxVESvaSCX6IpxJ9hKy-Q"
+"https://www.simplyhired.co.in/search?l=ahmedabad%2C+gujarat&job=19OOwvN-T8CM5ggFkMsjJmS47eOftIoktE0HMFVL6xvrwRacL8CvPQ"
+"https://www.simplyhired.co.in/search?l=gurgaon%2C+haryana&job=C_naagiCqER5Iz2FyC497h_IEOH3kGZo_phODnwRVeAvwUNObYQP7g"
+"https://www.simplyhired.co.in/search?l=noida%2C+uttar+pradesh&job=mKWnMVR49zxEVsopT_WGQ5PYp5GOFCpDkPJ43EZE0Xo_ESxnz32ycw"
+"https://www.simplyhired.co.in/search?l=kolkata%2C+west+bengal&job=1ATnp84Yd4629KIsuZpewXkpm2O7q1yEB_hud5VCQf8WLVxmkkJoOQ"
+"https://www.simplyhired.co.in/search?l=coimbatore%2C+tamil+nadu&job=YxfrZF7ni1IZCPCv2EgjPSVGQnhEoCspbdKu8G9KcuIPXrJ6zq-DcQ"
+"https://www.simplyhired.co.in/search?l=jaipur%2C+rajasthan&job=sbNgrlAVAcLXbwiJOnym_nB_ey6q7WxucSCZKI5iIIXLaBgndFlceg"
+"https://www.simplyhired.co.in/search?l=mohali%2C+punjab&job=Hm_F5S6C76QKWBayILMqt11027-ilqdtR8rRYKEMhtAWlRosXtF74w"

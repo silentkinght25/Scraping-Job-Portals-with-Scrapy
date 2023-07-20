@@ -1,0 +1,2 @@
+proxy1.example.com:8000
+proxy2.example.com:8000
