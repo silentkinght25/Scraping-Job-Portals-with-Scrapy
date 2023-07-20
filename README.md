@@ -5,7 +5,7 @@ Scarped simplyhired.com, foundit.com and hirist.com<br>
 <ol>
   <li><strong>Hirist.com: </strong> Hirist uses api for job listing. Api scraped using scrapy more than 17,000 jobs scraped in           various categories. Start url consist of list of categories scraped.
   </li>
-  <li><strong><ul>Simplyhired.com</ul>: </strong> Scraped very few categories. Basically this websites has a limit on the request to             protect its content from scrapping. To handle the 429 status code (Too Many Requests) and avoid hitting the websites too                   frequently, I have used some of the methods they are listed below:<br>
+  <li><strong>Simplyhired.com: </strong> Scraped very few categories. Basically this websites has a limit on the request to             protect its content from scrapping. To handle the 429 status code (Too Many Requests) and avoid hitting the websites too                   frequently, I have used some of the methods they are listed below:<br>
       <ul>
         <li><strong>Rotate User Agents: </strong> Instead of randomly selecting a user-agent for each request, I have rotated the user-                  agent after a certain number of requests(5 in my case). This helps to mimic different browsers and reduce the chances of                   getting blocked. You can maintain a list of user-agents and use them in a sequential order.
         </li>
@@ -17,10 +17,13 @@ Scarped simplyhired.com, foundit.com and hirist.com<br>
         <li>
           <strong>Request prioritization: </strong> In Scrapy, you can use the priority feature of Scrapy's Request objects. By assigning different priority values to your requests, you can control the order in which they are processed by the crawler.
         </li>
-        
+      </ul>   
   </li>
- </li>
+<li> <strong>Foundit.com: </strong>Foundit uses ip detection technique to protect against web scrapping. To scrape its content you cam use proxies and multiple user agent.
+</li>
 </ol>
-By assigning different priority values to your requests, you can control the order in which they are processed by the crawler.\
+<br>All the scraped files are attached in the folder. Also the proxies are replaced by default proxies.<br><br>
 
-With the AutoThrottle extension enabled and the appropriate delay settings, your spider should automatically adjust the crawling speed to avoid hitting the websites too frequently.
+>**Please note that it's essential to respect the website's terms of service and robots.txt directives while scraping. Excessive scraping or ignoring rate limits can lead to IP blocking or other consequences.**
+
+>**Remember, each website may have different anti-scraping mechanisms in place, and there is no one-size-fits-all solution. It's an ongoing process of experimentation and adjusting your spider's behavior to avoid detection and ensure successful scraping.**
